@@ -22,11 +22,23 @@ Um sistema de listagem de usuários.
 
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 
-<p> Instalar as dependencias, se utiliza npm:<p>
+<p> Instalar as dependencias, se utiliza npm:</p>
 
 `< npm install>`
 
-  para  iniciar o servidor, execute:
+  <p> logo após instalação execute:</p>
+  
+ `<npm init>`
+  
+  <p> Em seguida instale o express:<p>
+  
+`<npm install express>`
+  
+  <p>Para  iniciar o servidor, execute:<p>
+  
+  `<node index.js>`
+  
+  <p> Por fim para acessar o sistema, execute:<p>
   
    `<http//:localhost3000/users>`
 
